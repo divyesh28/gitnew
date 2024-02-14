@@ -2,6 +2,11 @@
     xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
     xmlns="sap.m">
     <Page id="page" title="Main View">
-        <content />
+        <content> 
+            <VBox>
+                <Label text="First Label"/>
+                
+            </VBox>
+        </content>
     </Page>
 </mvc:View>

@@ -3,10 +3,9 @@
     xmlns="sap.m">
     <Page id="page" title="Main View">
         <content> 
-            <VBox>
-                <Label text="First Label"/>
-                <Label text="Second Label"/>
-                
+            <VBox id="vbox">
+                <Label id="firstLabel" text="First Label"/>
+                <Label id="secondLabel" text="Second Label"/>
             </VBox>
         </content>
     </Page>

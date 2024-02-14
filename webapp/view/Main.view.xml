@@ -5,6 +5,7 @@
         <content> 
             <VBox>
                 <Label text="First Label"/>
+                <Label text="Second Label"/>
                 
             </VBox>
         </content>

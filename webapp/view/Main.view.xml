@@ -1,7 +1,7 @@
 <mvc:View controllerName="nsdemogitapp.demoapp.controller.Main"
     xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
     xmlns="sap.m">
-    <Page id="page" title="Main View Title">
+    <Page id="page" title="Main View">
         <content />
     </Page>
 </mvc:View>

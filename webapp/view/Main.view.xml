@@ -6,6 +6,7 @@
             <VBox id="vbox">
                 <Label id="firstLabel" text="First Label"/>
                 <Label id="secondLabel" text="Second Label  "/>
+                <Label id="fourthLabel" text="Fourth Label  "/>
             </VBox>
         </content>
     </Page>

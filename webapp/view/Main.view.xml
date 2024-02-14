@@ -5,7 +5,7 @@
         <content> 
             <VBox id="vbox">
                 <Label id="firstLabel" text="First Label"/>
-                <Label id="secondLabel" text="Second Label"/>
+                <Label id="secondLabel" text="Second Label "/>
             </VBox>
         </content>
     </Page>
